@@ -1,3 +1,3 @@
 # teste github
 
-![./github_icon.png] (github)
+![./github.png] (github)

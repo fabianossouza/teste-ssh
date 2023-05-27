@@ -1,0 +1,14 @@
+PING nike.com (108.158.104.7) 56(84) bytes of data.
+64 bytes from server-108-158-104-7.lim50.r.cloudfront.net (108.158.104.7): icmp_seq=1 ttl=241 time=388 ms
+64 bytes from server-108-158-104-7.lim50.r.cloudfront.net (108.158.104.7): icmp_seq=2 ttl=241 time=387 ms
+64 bytes from server-108-158-104-7.lim50.r.cloudfront.net (108.158.104.7): icmp_seq=3 ttl=241 time=477 ms
+64 bytes from server-108-158-104-7.lim50.r.cloudfront.net (108.158.104.7): icmp_seq=4 ttl=241 time=438 ms
+64 bytes from server-108-158-104-7.lim50.r.cloudfront.net (108.158.104.7): icmp_seq=5 ttl=241 time=386 ms
+64 bytes from server-108-158-104-7.lim50.r.cloudfront.net (108.158.104.7): icmp_seq=6 ttl=241 time=384 ms
+64 bytes from server-108-158-104-7.lim50.r.cloudfront.net (108.158.104.7): icmp_seq=7 ttl=241 time=427 ms
+64 bytes from server-108-158-104-7.lim50.r.cloudfront.net (108.158.104.7): icmp_seq=8 ttl=241 time=384 ms
+64 bytes from server-108-158-104-7.lim50.r.cloudfront.net (108.158.104.7): icmp_seq=9 ttl=241 time=384 ms
+
+--- nike.com ping statistics ---
+9 packets transmitted, 9 received, 0% packet loss, time 7998ms
+rtt min/avg/max/mdev = 383.631/405.973/476.587/31.626 ms
